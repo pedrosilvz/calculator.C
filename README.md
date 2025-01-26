@@ -1,6 +1,6 @@
 <div>
   <h1 style="display: inline-block; margin-right: 10px;">
-    Summary 📚
+    Calculator in C language 📚
   </h1>
   <img
     align="middle"
